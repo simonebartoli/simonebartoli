@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on an **ecommerce**
 
-- 👨‍💻 All of my projects are available at [bartolisimone.com](bartolisimone.com)
-
 - 📫 How to reach me **info@bartolisimone.com**
 
 <h3 align="left">Connect with me:</h3>
