@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simone.bartoli.5025911b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone.bartoli.5025911b8" height="30" width="40" /></a>
-<a href="https://fb.com/simone bartoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simone bartoli" height="30" width="40" /></a>
+<a href="https://fb.com/simone.bartoli.353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simone bartoli" height="30" width="40" /></a>
 <a href="https://instagram.com/great_simo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="great_simo" height="30" width="40" /></a>
 </p>
 
