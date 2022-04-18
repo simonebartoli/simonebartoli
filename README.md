@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simone Bartoli</h1>
 <h3 align="center">A programmer fond with Finance</h3>
 
-- 🔭 I’m currently working on an **ecommerce**
+- 🔭 I’m currently working on an **ecommerce project**
 
 - 📫 How to reach me **info@bartolisimone.com**
 
